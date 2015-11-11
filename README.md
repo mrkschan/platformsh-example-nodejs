@@ -1,14 +1,9 @@
-# platformsh_node_example
+# platform.sh nodejs example with mongodb and grunt
 
 a Platform.sh example
 
 ## Getting Started
-Install the module with: `npm install platformsh_node_example`
-
-```javascript
-var platformsh_node_example = require('platformsh_node_example');
-platformsh_node_example.awesome(); // "awesome"
-```
+Create a new platform on Platform.sh and push this branch.
 
 ## Documentation
 _(Coming soon)_

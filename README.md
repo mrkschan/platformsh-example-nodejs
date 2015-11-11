@@ -1,5 +1,27 @@
-#A  very minimal nodejs Platform.sh example
+# platformsh_node_example
 
-* No backend services, just node
-* Serving static content
-* Serving from both www. and naked domain
+a Platform.sh example
+
+## Getting Started
+Install the module with: `npm install platformsh_node_example`
+
+```javascript
+var platformsh_node_example = require('platformsh_node_example');
+platformsh_node_example.awesome(); // "awesome"
+```
+
+## Documentation
+_(Coming soon)_
+
+## Examples
+_(Coming soon)_
+
+## Contributing
+In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+
+## Release History
+_(Nothing yet)_
+
+## License
+Copyright (c) 2015 Ori Pekelman  
+Licensed under the MIT license.
